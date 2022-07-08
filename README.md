@@ -51,9 +51,10 @@ I'm a Full Stack Developer I have experience with JavaScript, Ruby, Rails, React
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=hammaazarok&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hammaazarok&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hammaazarok&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hammaazarok&theme=gray&hide_border=false&bg_color=90DEG,bbf0ff,e9faff&include_all_commits=true&count_private=true)
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hammaazarok&theme=gray&background=bbf0ff&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hammaazarok&theme=gray&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=90DEG,bbf0ff,e9faff)
 
 ---
 
@@ -70,7 +71,7 @@ I'm a Full Stack Developer I have experience with JavaScript, Ruby, Rails, React
 
 ---
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 ---
 Let's connect 👨‍💻 and forge the future together.😁✌
 

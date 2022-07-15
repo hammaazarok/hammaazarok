@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/19716151/177983223-5e8fd7d3-762c-48b6-af19-a2fb7882ce6b.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I'm a Full Stack Developer I have experience with JavaScript, Ruby, Rails, React, Redux. Open to new opportunities! 😉
+I'm a Full-Stack Developer I have experience with JavaScript, Ruby, Rails, React, and Redux. Open to new opportunities! 😉
  
  
  🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)

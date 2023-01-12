@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects
+- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails projects
 - 💬 Ask me about Web Development
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/hammaazarok/)
 
